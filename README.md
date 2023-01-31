@@ -1,3 +1,6 @@
 # Proj3todoList
 
-## npm command: npm i todolistproj3
+## npm command: 
+```bash
+npm i todolistproj3
+```
